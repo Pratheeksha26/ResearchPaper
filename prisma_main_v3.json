@@ -1,0 +1,280 @@
+{
+  "abstract_missing_removed": 376,
+  "after_abstract_missing_removal": 1923,
+  "after_doi_dedupe": 2391,
+  "after_embedding_dedupe": 2299,
+  "after_language_date_filtering": 1920,
+  "after_title_dedupe": 2299,
+  "doi_duplicates_removed": 9,
+  "embedding_dedupe_status": "skipped",
+  "embedding_duplicates_removed": 0,
+  "identified": 2400,
+  "included": 1920,
+  "language_date_filtered": 3,
+  "language_filter": "language:en",
+  "language_filter_applied": true,
+  "max_results_per_year": 200,
+  "openalex_total_matches_sum_by_year": 260761,
+  "per_page": 100,
+  "per_year": {
+    "2015": {
+      "api_results_scanned": 286,
+      "filter": "publication_year:2015,language:en",
+      "identified": 200,
+      "included": 186,
+      "language_filter_applied": true,
+      "pages_fetched": 3,
+      "search_parameter": "search with quoted phrase OR terms",
+      "search_phrases": [
+        "graph neural network",
+        "GNN",
+        "graph convolutional network",
+        "graph attention network",
+        "message passing",
+        "message passing neural network",
+        "graph representation learning"
+      ],
+      "sort_order": "relevance_score:desc",
+      "title_abstract_phrase_required": true,
+      "total_matches": 3642
+    },
+    "2016": {
+      "api_results_scanned": 279,
+      "filter": "publication_year:2016,language:en",
+      "identified": 200,
+      "included": 180,
+      "language_filter_applied": true,
+      "pages_fetched": 3,
+      "search_parameter": "search with quoted phrase OR terms",
+      "search_phrases": [
+        "graph neural network",
+        "GNN",
+        "graph convolutional network",
+        "graph attention network",
+        "message passing",
+        "message passing neural network",
+        "graph representation learning"
+      ],
+      "sort_order": "relevance_score:desc",
+      "title_abstract_phrase_required": true,
+      "total_matches": 3992
+    },
+    "2017": {
+      "api_results_scanned": 259,
+      "filter": "publication_year:2017,language:en",
+      "identified": 200,
+      "included": 164,
+      "language_filter_applied": true,
+      "pages_fetched": 3,
+      "search_parameter": "search with quoted phrase OR terms",
+      "search_phrases": [
+        "graph neural network",
+        "GNN",
+        "graph convolutional network",
+        "graph attention network",
+        "message passing",
+        "message passing neural network",
+        "graph representation learning"
+      ],
+      "sort_order": "relevance_score:desc",
+      "title_abstract_phrase_required": true,
+      "total_matches": 4206
+    },
+    "2018": {
+      "api_results_scanned": 222,
+      "filter": "publication_year:2018,language:en",
+      "identified": 200,
+      "included": 154,
+      "language_filter_applied": true,
+      "pages_fetched": 3,
+      "search_parameter": "search with quoted phrase OR terms",
+      "search_phrases": [
+        "graph neural network",
+        "GNN",
+        "graph convolutional network",
+        "graph attention network",
+        "message passing",
+        "message passing neural network",
+        "graph representation learning"
+      ],
+      "sort_order": "relevance_score:desc",
+      "title_abstract_phrase_required": true,
+      "total_matches": 5245
+    },
+    "2019": {
+      "api_results_scanned": 206,
+      "filter": "publication_year:2019,language:en",
+      "identified": 200,
+      "included": 172,
+      "language_filter_applied": true,
+      "pages_fetched": 3,
+      "search_parameter": "search with quoted phrase OR terms",
+      "search_phrases": [
+        "graph neural network",
+        "GNN",
+        "graph convolutional network",
+        "graph attention network",
+        "message passing",
+        "message passing neural network",
+        "graph representation learning"
+      ],
+      "sort_order": "relevance_score:desc",
+      "title_abstract_phrase_required": true,
+      "total_matches": 7988
+    },
+    "2020": {
+      "api_results_scanned": 205,
+      "filter": "publication_year:2020,language:en",
+      "identified": 200,
+      "included": 169,
+      "language_filter_applied": true,
+      "pages_fetched": 3,
+      "search_parameter": "search with quoted phrase OR terms",
+      "search_phrases": [
+        "graph neural network",
+        "GNN",
+        "graph convolutional network",
+        "graph attention network",
+        "message passing",
+        "message passing neural network",
+        "graph representation learning"
+      ],
+      "sort_order": "relevance_score:desc",
+      "title_abstract_phrase_required": true,
+      "total_matches": 12969
+    },
+    "2021": {
+      "api_results_scanned": 206,
+      "filter": "publication_year:2021,language:en",
+      "identified": 200,
+      "included": 168,
+      "language_filter_applied": true,
+      "pages_fetched": 3,
+      "search_parameter": "search with quoted phrase OR terms",
+      "search_phrases": [
+        "graph neural network",
+        "GNN",
+        "graph convolutional network",
+        "graph attention network",
+        "message passing",
+        "message passing neural network",
+        "graph representation learning"
+      ],
+      "sort_order": "relevance_score:desc",
+      "title_abstract_phrase_required": true,
+      "total_matches": 20745
+    },
+    "2022": {
+      "api_results_scanned": 210,
+      "filter": "publication_year:2022,language:en",
+      "identified": 200,
+      "included": 156,
+      "language_filter_applied": true,
+      "pages_fetched": 3,
+      "search_parameter": "search with quoted phrase OR terms",
+      "search_phrases": [
+        "graph neural network",
+        "GNN",
+        "graph convolutional network",
+        "graph attention network",
+        "message passing",
+        "message passing neural network",
+        "graph representation learning"
+      ],
+      "sort_order": "relevance_score:desc",
+      "title_abstract_phrase_required": true,
+      "total_matches": 30210
+    },
+    "2023": {
+      "api_results_scanned": 208,
+      "filter": "publication_year:2023,language:en",
+      "identified": 200,
+      "included": 149,
+      "language_filter_applied": true,
+      "pages_fetched": 3,
+      "search_parameter": "search with quoted phrase OR terms",
+      "search_phrases": [
+        "graph neural network",
+        "GNN",
+        "graph convolutional network",
+        "graph attention network",
+        "message passing",
+        "message passing neural network",
+        "graph representation learning"
+      ],
+      "sort_order": "relevance_score:desc",
+      "title_abstract_phrase_required": true,
+      "total_matches": 44145
+    },
+    "2024": {
+      "api_results_scanned": 206,
+      "filter": "publication_year:2024,language:en",
+      "identified": 200,
+      "included": 146,
+      "language_filter_applied": true,
+      "pages_fetched": 3,
+      "search_parameter": "search with quoted phrase OR terms",
+      "search_phrases": [
+        "graph neural network",
+        "GNN",
+        "graph convolutional network",
+        "graph attention network",
+        "message passing",
+        "message passing neural network",
+        "graph representation learning"
+      ],
+      "sort_order": "relevance_score:desc",
+      "title_abstract_phrase_required": true,
+      "total_matches": 49953
+    },
+    "2025": {
+      "api_results_scanned": 207,
+      "filter": "publication_year:2025,language:en",
+      "identified": 200,
+      "included": 148,
+      "language_filter_applied": true,
+      "pages_fetched": 3,
+      "search_parameter": "search with quoted phrase OR terms",
+      "search_phrases": [
+        "graph neural network",
+        "GNN",
+        "graph convolutional network",
+        "graph attention network",
+        "message passing",
+        "message passing neural network",
+        "graph representation learning"
+      ],
+      "sort_order": "relevance_score:desc",
+      "title_abstract_phrase_required": true,
+      "total_matches": 49028
+    },
+    "2026": {
+      "api_results_scanned": 207,
+      "filter": "publication_year:2026,language:en",
+      "identified": 200,
+      "included": 128,
+      "language_filter_applied": true,
+      "pages_fetched": 3,
+      "search_parameter": "search with quoted phrase OR terms",
+      "search_phrases": [
+        "graph neural network",
+        "GNN",
+        "graph convolutional network",
+        "graph attention network",
+        "message passing",
+        "message passing neural network",
+        "graph representation learning"
+      ],
+      "sort_order": "relevance_score:desc",
+      "title_abstract_phrase_required": true,
+      "total_matches": 28638
+    }
+  },
+  "sort_order": "relevance_score:desc",
+  "title_duplicates_removed": 92,
+  "topic": "graph neural networks",
+  "year_range": [
+    2015,
+    2026
+  ]
+}

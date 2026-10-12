@@ -1,0 +1,10 @@
+graph TD
+A[Identified: 2879] --> B[After DOI dedupe: 2866]
+B --> C[After title dedupe: 2755]
+C --> D[After embedding dedupe: 2755]
+D --> E[Abstract missing removed: 536]
+E --> F[After abstract removal: 2219]
+F --> G[Language/date filtered: 5]
+G --> H[Eligible after screening: 2214]
+H --> I[Yearly cap removed: 263]
+I --> J[Included: 1951]

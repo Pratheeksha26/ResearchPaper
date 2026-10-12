@@ -1,0 +1,68 @@
+{
+  "seed": 20260928,
+  "sampling": "proportional stratified by publication year with largest-remainder allocation",
+  "sampled": 50,
+  "on_topic": 50,
+  "off_topic": 0,
+  "fraction": 1.0,
+  "patterns": {
+    "graph neural network": "\\bgraph neural networks?\\b",
+    "GNN abbreviation": "\\bGNNs?\\b",
+    "graph convolutional network": "\\bgraph convolutional networks?\\b",
+    "graph attention network": "\\bgraph attention networks?\\b",
+    "message passing": "\\bmessage passing(?: neural networks?)?\\b",
+    "graph representation learning": "\\bgraph representation learning\\b"
+  },
+  "per_year": {
+    "2015": {
+      "on_topic": 5,
+      "sampled": 5
+    },
+    "2016": {
+      "on_topic": 5,
+      "sampled": 5
+    },
+    "2017": {
+      "on_topic": 4,
+      "sampled": 4
+    },
+    "2018": {
+      "on_topic": 4,
+      "sampled": 4
+    },
+    "2019": {
+      "on_topic": 5,
+      "sampled": 5
+    },
+    "2020": {
+      "on_topic": 4,
+      "sampled": 4
+    },
+    "2021": {
+      "on_topic": 4,
+      "sampled": 4
+    },
+    "2022": {
+      "on_topic": 4,
+      "sampled": 4
+    },
+    "2023": {
+      "on_topic": 4,
+      "sampled": 4
+    },
+    "2024": {
+      "on_topic": 4,
+      "sampled": 4
+    },
+    "2025": {
+      "on_topic": 4,
+      "sampled": 4
+    },
+    "2026": {
+      "on_topic": 3,
+      "sampled": 3
+    }
+  },
+  "corpus_size": 1920,
+  "reconstruction": "all OpenAlex inverted-index token occurrences restored; duplicates no longer discarded"
+}

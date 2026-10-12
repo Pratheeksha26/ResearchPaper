@@ -1,0 +1,9 @@
+{
+  "corpus": "corpus_main_v3.jsonl",
+  "primary_rows": 100,
+  "secondary_rows": 30,
+  "primary_seed": 20260929,
+  "secondary_seed": 20260930,
+  "secondary_is_subset_of_primary": true,
+  "label_columns_blank": true
+}

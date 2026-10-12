@@ -1,0 +1,71 @@
+{
+  "seed": 20260928,
+  "sampling": "proportional stratified by publication year with largest-remainder allocation",
+  "sampled": 50,
+  "on_topic": 34,
+  "off_topic": 16,
+  "fraction": 0.68,
+  "patterns": {
+    "graph neural network": "\\bgraph neural networks?\\b",
+    "graph convolution": "\\bgraph convolutions?(?:al)?(?: networks?)?\\b",
+    "GNN abbreviation": "\\bGNNs?\\b",
+    "graph attention": "\\bgraph attention(?: networks?)?\\b",
+    "message passing": "\\bmessage passing\\b",
+    "graph representation learning": "\\bgraph representation learning\\b",
+    "graph embedding": "\\bgraph embeddings?\\b",
+    "graph-based representation or learning": "\\bgraph[- ]based (?:representation|learning)\\b",
+    "graph-structured data/graphs": "\\bgraph[- ]structured (?:data|graphs?)\\b",
+    "graph neural learning": "\\bgraph neural (?:networking|learning)\\b"
+  },
+  "per_year": {
+    "2015": {
+      "on_topic": 0,
+      "sampled": 5
+    },
+    "2016": {
+      "on_topic": 0,
+      "sampled": 4
+    },
+    "2017": {
+      "on_topic": 2,
+      "sampled": 5
+    },
+    "2018": {
+      "on_topic": 0,
+      "sampled": 4
+    },
+    "2019": {
+      "on_topic": 4,
+      "sampled": 4
+    },
+    "2020": {
+      "on_topic": 4,
+      "sampled": 4
+    },
+    "2021": {
+      "on_topic": 5,
+      "sampled": 5
+    },
+    "2022": {
+      "on_topic": 4,
+      "sampled": 4
+    },
+    "2023": {
+      "on_topic": 4,
+      "sampled": 4
+    },
+    "2024": {
+      "on_topic": 4,
+      "sampled": 4
+    },
+    "2025": {
+      "on_topic": 4,
+      "sampled": 4
+    },
+    "2026": {
+      "on_topic": 3,
+      "sampled": 3
+    }
+  },
+  "openalex_phrase_match_count": "not queried: user prohibited API calls except approved extraction pilot"
+}

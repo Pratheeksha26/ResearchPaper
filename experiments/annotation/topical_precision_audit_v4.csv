@@ -1,0 +1,51 @@
+﻿paper_id,year,title,broad_match_patterns,broad_on_topic,strict_match_patterns,strict_on_topic
+https://openalex.org/W2295162506,2015,Neurotransmitter vesicle movement dynamics in living neurons,gnn,True,gnn,True
+https://openalex.org/W2559629838,2016,Preterm Birth during Influenza Season Is Associated with Adverse Outcome in Very Low Birth Weight Infants,gnn,True,gnn,True
+https://openalex.org/W2770468159,2017,Few-Shot Learning with Graph Neural Networks,graph_neural_network,True,graph_neural_network,True
+https://openalex.org/W2765579990,2017,Multimodal Classification of Violent Online Political Extremism Content with Graph Convolutional Networks,graph_convolutional_network,True,graph_convolutional_network,True
+https://openalex.org/W2787740662,2018,Attention-based Graph Neural Network for Semi-supervised Learning,graph_neural_network,True,graph_neural_network,True
+https://openalex.org/W2959811291,2018,Pileup mitigation at the Large Hadron Collider with Graph Neural Networks,graph_neural_network,True,graph_neural_network,True
+https://openalex.org/W2789188016,2018,Improving Graph Convolutional Networks with Non-Parametric Activation Functions,graph_neural_network;gnn;graph_convolutional_network,True,graph_neural_network;gnn;graph_convolutional_network,True
+https://openalex.org/W2884153028,2018,Collaborative Filtering Recommendation Algorithm Based on Knowledge Graph,graph_representation_learning,True,graph_representation_learning,True
+https://openalex.org/W2887603607,2018,REVISED NOTE ON LEARNING QUADRATIC ASSIGNMENT WITH GRAPH NEURAL NETWORKS,graph_neural_network,True,graph_neural_network,True
+https://openalex.org/W2906666509,2018,Graph Transformation Policy Network for Chemical Reaction Prediction,graph_neural_network,True,graph_neural_network,True
+https://openalex.org/W2914050157,2019,Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems,graph_attention_network,True,graph_attention_network,True
+https://openalex.org/W2995345309,2019,Modeling Physico-Chemical ADMET Endpoints with Multitask Graph Convolutional Networks,graph_convolutional_network,True,graph_convolutional_network,True
+https://openalex.org/W2916106175,2019,Simplifying Graph Convolutional Networks,graph_convolutional_network,True,graph_convolutional_network,True
+https://openalex.org/W2971132843,2019,Graph Convolutional Network and Convolutional Neural Network Based Method for Predicting lncRNA-Disease Associations,graph_convolutional_network,True,graph_convolutional_network,True
+https://openalex.org/W2962810718,2019,Weisfeiler and Leman Go Neural: Higher-Order Graph Neural Networks,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W3034471508,2020,Bundle Recommendation with Graph Convolutional Networks,graph_neural_network;graph_convolutional_network,True,graph_neural_network;graph_convolutional_network,True
+https://openalex.org/W3036619032,2020,Disease Prediction via Graph Neural Networks,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W2971612271,2020,Adaptive Graph Representation Learning for Video Person Re-Identification,graph_representation_learning,True,graph_representation_learning,True
+https://openalex.org/W3035135368,2020,Bilinear Graph Neural Network with Neighbor Interactions,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W3035869396,2020,Learning Scheduling Policies for Multi-Robot Coordination With Graph Attention Networks,graph_neural_network;graph_attention_network,True,graph_neural_network;graph_attention_network,True
+https://openalex.org/W3173292968,2021,Contrastive and Generative Graph Convolutional Networks for Graph-based Semi-Supervised Learning,graph_convolutional_network,True,graph_convolutional_network,True
+https://openalex.org/W3123893801,2021,Auto-Metric Graph Neural Network Based on a Meta-Learning Strategy for the Diagnosis of Alzheimer's Disease,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W3176189116,2021,Search to aggregate neighborhood for graph neural network,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W3108823960,2021,Higher-Order Explanations of Graph Neural Networks via Relevant Walks,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W3194259208,2021,ETA Prediction with Graph Neural Networks in Google Maps,graph_neural_network;gnn;graph_representation_learning,True,graph_neural_network;gnn;graph_representation_learning,True
+https://openalex.org/W4213235856,2022,Pre-training graph neural networks for link prediction in biomedical networks,graph_neural_network;gnn;graph_convolutional_network,True,graph_neural_network;gnn;graph_convolutional_network,True
+https://openalex.org/W4287670594,2022,Hierarchical message-passing graph neural networks,graph_neural_network;gnn;message_passing_broad,True,graph_neural_network;gnn,True
+https://openalex.org/W4210313485,2022,Cross-dependent graph neural networks for molecular property prediction,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W4290876096,2022,"Graph Neural Networks: Foundation, Frontiers and Applications",graph_neural_network;gnn;graph_representation_learning,True,graph_neural_network;gnn;graph_representation_learning,True
+https://openalex.org/W4295760561,2022,SR-GNN: Spatial Relation-Aware Graph Neural Network for Fine-Grained Image Categorization,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W4389633671,2023,ASA-GNN: Adaptive Sampling and Aggregation-Based Graph Neural Network for Transaction Fraud Detection,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W4385570482,2023,DualGATs: Dual Graph Attention Networks for Emotion Recognition in Conversations,graph_attention_network,True,graph_attention_network,True
+https://openalex.org/W4387968068,2023,Cross-Modal Graph Attention Network for Entity Alignment,graph_neural_network;gnn;graph_attention_network,True,graph_neural_network;gnn;graph_attention_network,True
+https://openalex.org/W4385969371,2023,HimGNN: a novel hierarchical molecular graph representation learning framework for property prediction,graph_neural_network;graph_representation_learning,True,graph_neural_network;graph_representation_learning,True
+https://openalex.org/W4385567920,2023,AdaProp: Learning Adaptive Propagation for Graph Neural Network based Knowledge Graph Reasoning,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W4395670480,2024,Predict lncRNA-drug associations based on graph neural network,graph_neural_network;graph_convolutional_network;graph_attention_network,True,graph_neural_network;graph_convolutional_network;graph_attention_network,True
+https://openalex.org/W4393220349,2024,No Prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W4393170627,2024,DeGCN: Deformable Graph Convolutional Networks for Skeleton-Based Action Recognition,graph_convolutional_network,True,graph_convolutional_network,True
+https://openalex.org/W4400513275,2024,Graph Neural Networks for Pressure Estimation in Water Distribution Systems,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W4399552239,2024,A review on the applications of graph neural networks in materials science at the atomic scale,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W4411949404,2025,Graph Neural Network Enabled Pinching Antennas,graph_neural_network;gnn;graph_attention_network,True,graph_neural_network;gnn;graph_attention_network,True
+https://openalex.org/W4410078895,2025,A novel recommender system using light graph convolutional network and personalized knowledge-aware attention sub-network,graph_neural_network;gnn;graph_convolutional_network,True,graph_neural_network;gnn;graph_convolutional_network,True
+https://openalex.org/W4407953271,2025,LightGNN: Simple Graph Neural Network for Recommendation,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W4412983341,2025,Algorithm-informed graph neural networks for leakage detection and localization in water distribution networks,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W4410887229,2025,Topology-Aware Graph Neural Network-Based State Estimation for PMU-Unobservable Power Systems,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W7124462214,2026,NOMANet: A Graph Neural Network Enabled Power Allocation Scheme for NOMA,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W7160486860,2026,Graph Neural Network in Raman Spectroscopy to Leverage the Performance and Interpretability of the Classification,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W4221150249,2026,Graph Neural Networks for Graphs With Heterophily: A Survey,graph_neural_network;gnn,True,graph_neural_network;gnn,True
+https://openalex.org/W7134923530,2026,Graph neural networks for anomaly detection: a systematic review of dynamic temporal approaches,graph_neural_network;gnn;graph_convolutional_network;graph_attention_network,True,graph_neural_network;gnn;graph_convolutional_network;graph_attention_network,True
+https://openalex.org/W7141402761,2026,SMART: spatial multi-omic aggregation using graph neural networks and metric learning,graph_neural_network,True,graph_neural_network,True

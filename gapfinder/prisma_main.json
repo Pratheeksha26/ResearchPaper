@@ -1,0 +1,16 @@
+{
+  "abstract_missing_removed": 269,
+  "after_abstract_missing_removal": 1184,
+  "after_doi_dedupe": 1494,
+  "after_embedding_dedupe": 1453,
+  "after_language_date_filtering": 1181,
+  "after_title_dedupe": 1453,
+  "deduped": 1453,
+  "embedding_dedupe_status": "skipped",
+  "identified": 1500,
+  "included": 1181,
+  "language_date_filtered": 3,
+  "language_filter_applied": true,
+  "openalex_total_matches": 792587,
+  "sort_order": "relevance_score:desc"
+}

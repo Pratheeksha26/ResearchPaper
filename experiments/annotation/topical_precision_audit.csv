@@ -1,0 +1,51 @@
+id,title,year,on_topic,matched_patterns
+https://openalex.org/W4410897142,STFDSGCN: Spatio-Temporal Fusion Graph Neural Network Based on Dynamic Sparse Graph Convolution GRU for Traffic Flow Forecast,2025,True,graph neural network; graph convolution
+https://openalex.org/W2913856657,Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN,2019,True,graph neural network; GNN abbreviation
+https://openalex.org/W2306541384,2D image classification for 3D anatomy localization: employing deep convolutional neural networks,2016,False,
+https://openalex.org/W3107223180,Fully Convolutional Graph Neural Networks for Parametric Virtual Try‐On,2020,True,graph neural network
+https://openalex.org/W3163164440,Anomaly detection with convolutional Graph Neural Networks,2021,True,graph neural network; GNN abbreviation
+https://openalex.org/W7142650894,Attributed graph neural network-based flood vulnerability assessment of river basin systems,2026,True,graph neural network; GNN abbreviation
+https://openalex.org/W2949700412,Multi-Channel Graph Neural Network for Entity Alignment,2019,True,graph neural network
+https://openalex.org/W4408688792,Graph neural networks for virtual sensing in complex systems: Addressing heterogeneous temporal dynamics,2025,True,graph neural network
+https://openalex.org/W4399757674,Track Finding in the LHCb Vertex Locator using Graph Neural Networks,2026,True,graph neural network; GNN abbreviation
+https://openalex.org/W2391304757,Exploratory graph analysis: A new approach for estimating the number of dimensions in psychological research,2017,False,
+https://openalex.org/W4212890525,Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels,2022,True,graph neural network; GNN abbreviation; message passing; graph-structured data/graphs
+https://openalex.org/W3156994078,Temporal Augmented Graph Neural Networks for Session-Based Recommendations,2021,True,graph neural network
+https://openalex.org/W2621742623,Retrosynthetic Reaction Prediction Using Neural Sequence-to-Sequence Models,2017,False,
+https://openalex.org/W4387968049,Learning a Graph Neural Network with Cross Modality Interaction for Image Fusion,2023,True,graph neural network; GNN abbreviation
+https://openalex.org/W2963346996,Situation Recognition with Graph Neural Networks,2017,True,graph neural network
+https://openalex.org/W4294558607,Targeted Branching for the Maximum Independent Set Problem Using Graph Neural Networks,2024,True,graph neural network
+https://openalex.org/W2621826044,Spatio-Temporal Backpropagation for Training High-Performance Spiking Neural Networks,2018,False,
+https://openalex.org/W4224298369,"A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability",2022,True,graph neural network; GNN abbreviation; graph-structured data/graphs
+https://openalex.org/W4401567681,"A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection",2024,True,graph neural network; GNN abbreviation
+https://openalex.org/W4212988627,Graph neural network-accelerated Lagrangian fluid simulation,2022,True,graph neural network
+https://openalex.org/W4382239247,Scalable Spatiotemporal Graph Neural Networks,2023,True,graph neural network; GNN abbreviation
+https://openalex.org/W7130429479,A conformational benchmark for optical property prediction with solvent-aware graph neural networks,2026,True,graph neural network; GNN abbreviation
+https://openalex.org/W4296300780,Graph Neural Networks in Recommender Systems: A Survey,2020,True,graph neural network; GNN abbreviation
+https://openalex.org/W2337199865,"Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex",2016,False,
+https://openalex.org/W2898375940,An Inside Look at Deep Neural Networks Using Graph Signal Processing,2018,False,
+https://openalex.org/W2799042347,Revisiting Small Batch Training for Deep Neural Networks,2018,False,
+https://openalex.org/W2184957013,Learning Entity and Relation Embeddings for Knowledge Graph Completion,2015,False,
+https://openalex.org/W1524673385,Designing Artificial Neural Networks Using Particle Swarm Optimization Algorithms,2015,False,
+https://openalex.org/W3200354549,A Survey of Graph Neural Networks for Electronic Design Automation,2021,True,graph neural network
+https://openalex.org/W2982490267,Hyperbolic Graph Convolutional Neural Networks,2019,True,graph convolution
+https://openalex.org/W2898221481,Supervised Community Detection with Line Graph Neural Networks,2017,True,graph neural network; GNN abbreviation
+https://openalex.org/W3130421533,FeatGraph: A Flexible and Efficient Backend for Graph Neural Network Systems,2020,True,graph neural network; GNN abbreviation
+https://openalex.org/W4224319742,AUC-oriented Graph Neural Network for Fraud Detection,2022,True,graph neural network; GNN abbreviation
+https://openalex.org/W2177562712,Neural Network Matrix Factorization,2015,False,
+https://openalex.org/W4391345489,CLARUS: An interactive explainable AI platform for manual counterfactuals in graph neural networks,2024,True,graph neural network; GNN abbreviation
+https://openalex.org/W2557390385,The Segregation and Integration of Distinct Brain Networks and Their Relationship to Cognition,2016,False,
+https://openalex.org/W2724254559,Evaluating the Use of Artificial Neural Networks and Graph Complexity to Predict Automotive Assembly Quality Defects,2017,False,
+https://openalex.org/W2971222961,DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation,2019,True,graph convolution
+https://openalex.org/W3042770487,Towards Deeper Graph Neural Networks,2020,True,graph neural network; graph representation learning
+https://openalex.org/W2418674135,The Growing Hierarchical Neural Gas Self-Organizing Neural Network,2016,False,
+https://openalex.org/W4395029107,Decouple Graph Neural Networks: Train Multiple Simple GNNs Simultaneously Instead of One,2024,True,graph neural network; GNN abbreviation
+https://openalex.org/W2035885296,Reconfigurable Antennas: Design and Applications,2015,False,
+https://openalex.org/W4406110833,Dynamic Fuzzy Sampler for Graph Neural Networks,2025,True,graph neural network; GNN abbreviation; graph-structured data/graphs
+https://openalex.org/W3109907338,Multi-Robot Coverage and Exploration using Spatial Graph Neural Networks,2021,True,graph neural network; GNN abbreviation
+https://openalex.org/W4379930959,Causal-Trivial Attention Graph Neural Network for Fault Diagnosis of Complex Industrial Processes,2023,True,graph neural network; GNN abbreviation
+https://openalex.org/W4407691196,FraudGNN-RL: A Graph Neural Network With Reinforcement Learning for Adaptive Financial Fraud Detection,2025,True,graph neural network; GNN abbreviation
+https://openalex.org/W3167575787,Structure-aware Interactive Graph Neural Networks for the Prediction of Protein-Ligand Binding Affinity,2021,True,graph neural network; GNN abbreviation
+https://openalex.org/W4316022134,Generalized Graph Neural Network-Based Detection of False Data Injection Attacks in Smart Grids,2023,True,graph neural network
+https://openalex.org/W1973396420,Fast Approximate Quadratic Programming for Graph Matching,2015,False,
+https://openalex.org/W2785397276,On the Generalization of Equivariance and Convolution in Neural Networks to the Action of Compact Groups,2018,False,

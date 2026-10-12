@@ -1,0 +1,124 @@
+{
+  "abstract_missing_removed": 432,
+  "after_abstract_missing_removal": 1872,
+  "after_doi_dedupe": 2388,
+  "after_embedding_dedupe": 2304,
+  "after_language_date_filtering": 1867,
+  "after_title_dedupe": 2304,
+  "doi_duplicates_removed": 12,
+  "embedding_dedupe_status": "skipped",
+  "embedding_duplicates_removed": 0,
+  "identified": 2400,
+  "included": 1867,
+  "language_date_filtered": 5,
+  "language_filter": "language:en",
+  "language_filter_applied": true,
+  "max_results_per_year": 200,
+  "openalex_total_matches_sum_by_year": 793280,
+  "per_page": 100,
+  "per_year": {
+    "2015": {
+      "filter": "publication_year:2015,language:en",
+      "identified": 200,
+      "included": 166,
+      "language_filter_applied": true,
+      "sort_order": "relevance_score:desc",
+      "total_matches": 13723
+    },
+    "2016": {
+      "filter": "publication_year:2016,language:en",
+      "identified": 200,
+      "included": 165,
+      "language_filter_applied": true,
+      "sort_order": "relevance_score:desc",
+      "total_matches": 16914
+    },
+    "2017": {
+      "filter": "publication_year:2017,language:en",
+      "identified": 200,
+      "included": 173,
+      "language_filter_applied": true,
+      "sort_order": "relevance_score:desc",
+      "total_matches": 20921
+    },
+    "2018": {
+      "filter": "publication_year:2018,language:en",
+      "identified": 200,
+      "included": 153,
+      "language_filter_applied": true,
+      "sort_order": "relevance_score:desc",
+      "total_matches": 29269
+    },
+    "2019": {
+      "filter": "publication_year:2019,language:en",
+      "identified": 200,
+      "included": 161,
+      "language_filter_applied": true,
+      "sort_order": "relevance_score:desc",
+      "total_matches": 41040
+    },
+    "2020": {
+      "filter": "publication_year:2020,language:en",
+      "identified": 200,
+      "included": 162,
+      "language_filter_applied": true,
+      "sort_order": "relevance_score:desc",
+      "total_matches": 57282
+    },
+    "2021": {
+      "filter": "publication_year:2021,language:en",
+      "identified": 200,
+      "included": 170,
+      "language_filter_applied": true,
+      "sort_order": "relevance_score:desc",
+      "total_matches": 75819
+    },
+    "2022": {
+      "filter": "publication_year:2022,language:en",
+      "identified": 200,
+      "included": 160,
+      "language_filter_applied": true,
+      "sort_order": "relevance_score:desc",
+      "total_matches": 98021
+    },
+    "2023": {
+      "filter": "publication_year:2023,language:en",
+      "identified": 200,
+      "included": 139,
+      "language_filter_applied": true,
+      "sort_order": "relevance_score:desc",
+      "total_matches": 131629
+    },
+    "2024": {
+      "filter": "publication_year:2024,language:en",
+      "identified": 200,
+      "included": 142,
+      "language_filter_applied": true,
+      "sort_order": "relevance_score:desc",
+      "total_matches": 135227
+    },
+    "2025": {
+      "filter": "publication_year:2025,language:en",
+      "identified": 200,
+      "included": 149,
+      "language_filter_applied": true,
+      "sort_order": "relevance_score:desc",
+      "total_matches": 115879
+    },
+    "2026": {
+      "filter": "publication_year:2026,language:en",
+      "identified": 200,
+      "included": 127,
+      "language_filter_applied": true,
+      "sort_order": "relevance_score:desc",
+      "total_matches": 57556
+    }
+  },
+  "sort_order": "relevance_score:desc",
+  "title_duplicates_removed": 84,
+  "topic": "graph neural networks",
+  "year_range": [
+    2015,
+    2026
+  ]
+}

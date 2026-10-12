@@ -1,0 +1,38 @@
+experiment: structured_claim_extraction
+model_env: GAPFINDER_MODEL
+model_id: ${GAPFINDER_MODEL}
+model_status_as_of: 2026-09-28
+model_deprecation_status: current GA model; not listed as deprecated
+shutdown_date: null
+model_status_source: https://ai.google.dev/gemini-api/docs/latest-model
+deprecation_schedule_source: https://ai.google.dev/gemini-api/docs/deprecations
+temperature: 0
+thinking_level: low
+thinking_level_note: minimum supported level for gemini-3.8-flash; thinking cannot be disabled
+thinking_level_docs: https://ai.google.dev/gemini-api/docs/thinking
+structured_output: true
+schema: paper_type, include_in_counts, task, method, dataset, metric, setting, stated_limitation, stated_future_work
+survey_rule: survey_or_review requires null task/method/dataset and include_in_counts=false
+specificity_stoplist_source: gapfinder.extraction.schema.GENERIC_CLAIM_PHRASES
+evidence:
+  required: true
+  exact_abstract_substring: true
+cache:
+  key: paper_id+model+prompt_and_schema_sha256
+  directory: ../../../.cache/extraction
+retry:
+  max_attempts: 3
+  exponential_backoff_with_jitter: true
+rate_limit:
+  quota_by_model: configured in gapfinder.llm.rate_limiter.MODEL_LIMITS
+  max_api_attempts: 5
+  sdk_retries_disabled: true
+  honor_retry_after: true
+pilot:
+  batch_size: 8
+  max_requests: 6
+usage:
+  csv: runs/<run_id>/usage.csv
+  fields: paper_id,input_tokens,output_tokens,thinking_tokens,latency_ms
+approval_gate:
+  full_corpus_extraction: requires_explicit_user_approval

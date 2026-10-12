@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+.cache/
+.venv/
+runs/
+corpus.jsonl
+prisma.json
+prisma_flow.md

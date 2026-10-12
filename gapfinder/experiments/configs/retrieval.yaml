@@ -1,0 +1,36 @@
+experiment: survey_recovery
+corpus: ../../corpus.jsonl
+output_dir: ../runs/retrieval
+max_surveys: 20
+min_relevant_documents: 3
+survey_selection: top publication-year/OpenAlex-ID ordered graph-neural/convolutional/learning survey titles from phase-1 and resolved-reference metadata
+query: survey title from OpenAlex work metadata
+ground_truth: each survey's OpenAlex referenced_works intersected with all abstract-bearing phase-1 and expanded cited-work candidates; exclude the survey itself from its own ranking
+reference_resolution:
+  endpoint: OpenAlex /works list
+  filter: ids.openalex:<ID1>|<ID2>
+  max_or_ids_per_request: 100
+cutoffs:
+  recall: [10, 20, 50]
+  ndcg: [10, 20]
+  precision: [10, 20]
+  map: full_ranked_pool
+primary_metric:
+  name: nDCG@10
+  selection_note: selected after inspecting first-pass results; not pre-registered before those results
+bootstrap:
+  resamples: 10000
+  seed: 20260928
+bm25:
+  k1: 1.5
+  b: 0.75
+dense:
+  model_env: GAPFINDER_EMBEDDING_MODEL
+  default_model: BAAI/bge-base-en-v1.5
+  disk_cache: ../../../.cache/retrieval
+  default_backend: numpy_exact_cosine
+rrf:
+  k: 60
+  weighted_ablation:
+    tuned_by: leave-one-query-out
+    selection_metric: mean nDCG@20 on training queries

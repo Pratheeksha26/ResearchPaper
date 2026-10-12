@@ -1,0 +1,103 @@
+{
+  "sample_seed": 20260928,
+  "sample_size": 50,
+  "year_allocation": {
+    "2015": 1,
+    "2016": 1,
+    "2017": 2,
+    "2018": 6,
+    "2019": 5,
+    "2020": 5,
+    "2021": 5,
+    "2022": 5,
+    "2023": 5,
+    "2024": 5,
+    "2025": 5,
+    "2026": 5
+  },
+  "broad_patterns": {
+    "graph_neural_network": "\\bgraph neural networks?\\b",
+    "gnn": "\\bGNNs?\\b",
+    "graph_convolutional_network": "\\bgraph convolutional networks?\\b",
+    "graph_attention_network": "\\bgraph attention networks?\\b",
+    "message_passing_broad": "\\bmessage passing(?: neural networks?)?\\b",
+    "graph_representation_learning": "\\bgraph representation learning\\b"
+  },
+  "strict_patterns": {
+    "graph_neural_network": "\\bgraph neural networks?\\b",
+    "gnn": "\\bGNNs?\\b",
+    "graph_convolutional_network": "\\bgraph convolutional networks?\\b",
+    "graph_attention_network": "\\bgraph attention networks?\\b",
+    "graph_representation_learning": "\\bgraph representation learning\\b",
+    "message_passing_neural_network": "\\bmessage[- ]passing neural networks?\\b"
+  },
+  "overall": {
+    "broad_on_topic": 50,
+    "strict_on_topic": 50,
+    "n": 50
+  },
+  "per_year": {
+    "2015": {
+      "n": 1,
+      "broad": 1,
+      "strict": 1
+    },
+    "2016": {
+      "n": 1,
+      "broad": 1,
+      "strict": 1
+    },
+    "2017": {
+      "n": 2,
+      "broad": 2,
+      "strict": 2
+    },
+    "2018": {
+      "n": 6,
+      "broad": 6,
+      "strict": 6
+    },
+    "2019": {
+      "n": 5,
+      "broad": 5,
+      "strict": 5
+    },
+    "2020": {
+      "n": 5,
+      "broad": 5,
+      "strict": 5
+    },
+    "2021": {
+      "n": 5,
+      "broad": 5,
+      "strict": 5
+    },
+    "2022": {
+      "n": 5,
+      "broad": 5,
+      "strict": 5
+    },
+    "2023": {
+      "n": 5,
+      "broad": 5,
+      "strict": 5
+    },
+    "2024": {
+      "n": 5,
+      "broad": 5,
+      "strict": 5
+    },
+    "2025": {
+      "n": 5,
+      "broad": 5,
+      "strict": 5
+    },
+    "2026": {
+      "n": 5,
+      "broad": 5,
+      "strict": 5
+    }
+  },
+  "full_corpus_strict_match_count": 1951,
+  "full_corpus_count": 1951
+}

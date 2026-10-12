@@ -1,0 +1,51 @@
+id,title,year,on_topic,matched_patterns
+https://openalex.org/W2152340913,OpenACC acceleration of an unstructured CFD solver based on a reconstructed discontinuous Galerkin method for compressible flows,2015,True,message passing
+https://openalex.org/W2191478572,Optimizing the choice of influential nodes for diffusion on a social network,2015,True,message passing
+https://openalex.org/W1835243625,Hinge-Loss Markov Random Fields and Probabilistic Soft Logic,2015,True,message passing
+https://openalex.org/W1941452196,Inference for Generalized Linear Models via alternating directions and Bethe Free Energy minimization,2015,True,message passing
+https://openalex.org/W1744464229,Approximate Message Passing with Unitary Transformation,2015,True,message passing
+https://openalex.org/W2563113662,AMP-B-SBL: An algorithm for clustered sparse signals using approximate message passing,2016,True,message passing
+https://openalex.org/W2962941466,A LSE and Sparse Message Passing-Based Channel Estimation for mmWave MIMO Systems,2016,True,message passing
+https://openalex.org/W2492534619,Duplicate data detection using GNN,2016,True,GNN abbreviation
+https://openalex.org/W2737972631,Semantics driven adjoints of the message passing interface,2016,True,message passing
+https://openalex.org/W3102043726,1Sum-capacity of Interference Channels with a Local View: Impact of Distributed Decisions,2016,True,message passing
+https://openalex.org/W2765383588,"Working memory, attention, and salience in active inference",2017,True,message passing
+https://openalex.org/W2804052888,Supervised Community Detection with Hierarchical Graph Neural Networks,2017,True,graph neural network; GNN abbreviation
+https://openalex.org/W2790938937,"Color image segmentation using iterative edge cutting, NUV-EM, and Gaussian message passing",2017,True,message passing
+https://openalex.org/W2963043672,Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks,2017,True,graph neural network
+https://openalex.org/W2964080504,Constructing Narrative Event Evolutionary Graph for Script Event Prediction,2018,True,graph neural network
+https://openalex.org/W4289389616,Predict then Propagate: Graph Neural Networks meet Personalized PageRank,2018,True,graph neural network; graph convolutional network; message passing
+https://openalex.org/W2898165197,Attack Graph Convolutional Networks by Adding Fake Nodes,2018,True,graph convolutional network
+https://openalex.org/W2788552534,Matching Long Text Documents via Graph Convolutional Networks,2018,True,graph convolutional network
+https://openalex.org/W2967728833,AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models,2019,True,graph neural network; graph convolutional network
+https://openalex.org/W2968734407,Pushing the Boundaries of Molecular Representation for Drug Discovery with the Graph Attention Mechanism,2019,True,graph neural network
+https://openalex.org/W2950393809,End-to-End Structure-Aware Convolutional Networks for Knowledge Base Completion,2019,True,graph convolutional network
+https://openalex.org/W2964971928,Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective,2019,True,graph neural network; GNN abbreviation
+https://openalex.org/W2940457086,Actional-Structural Graph Convolutional Networks for Skeleton-Based Action Recognition,2019,True,graph convolutional network
+https://openalex.org/W2997162759,Tensor Graph Convolutional Networks for Text Classification,2020,True,graph convolutional network
+https://openalex.org/W3038981236,Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting,2020,True,graph neural network; graph convolutional network
+https://openalex.org/W3080083111,TinyGNN: Learning Efficient Graph Neural Networks,2020,True,graph neural network; GNN abbreviation
+https://openalex.org/W3034681945,Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud,2020,True,graph neural network; GNN abbreviation
+https://openalex.org/W3125253896,Gaitgraph: Graph Convolutional Network for Skeleton-Based Gait Recognition,2021,True,graph convolutional network
+https://openalex.org/W3198511427,GNN-RE: Graph Neural Networks for Reverse Engineering of Gate-Level Netlists,2021,True,graph neural network; GNN abbreviation
+https://openalex.org/W3173292968,Contrastive and Generative Graph Convolutional Networks for Graph-based Semi-Supervised Learning,2021,True,graph convolutional network
+https://openalex.org/W3174756006,Rain Streak Removal via Dual Graph Convolutional Network,2021,True,graph convolutional network
+https://openalex.org/W4295760561,SR-GNN: Spatial Relation-Aware Graph Neural Network for Fine-Grained Image Categorization,2022,True,graph neural network; GNN abbreviation
+https://openalex.org/W4296704829,Efficient Residential Electric Load Forecasting via Transfer Learning and Graph Neural Networks,2022,True,graph neural network; GNN abbreviation
+https://openalex.org/W3192448376,EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks,2022,True,graph neural network; GNN abbreviation
+https://openalex.org/W4285138331,Spatial-Temporal Cellular Traffic Prediction for 5G and Beyond: A Graph Neural Networks-Based Approach,2022,True,graph neural network; GNN abbreviation; graph attention network
+https://openalex.org/W4366377753,Multi-Scale Adaptive Graph Neural Network for Multivariate Time Series Forecasting,2023,True,graph neural network
+https://openalex.org/W4382239247,Scalable Spatiotemporal Graph Neural Networks,2023,True,graph neural network; GNN abbreviation
+https://openalex.org/W4365455552,Mole-BERT: Rethinking Pre-training Graph Neural Networks for Molecules,2023,True,graph neural network; GNN abbreviation
+https://openalex.org/W4383482845,SLI-GNN: A Self-Learning-Input Graph Neural Network for Predicting Crystal and Molecular Properties,2023,True,graph neural network; GNN abbreviation; message passing
+https://openalex.org/W4396830720,Enhancement of traffic forecasting through graph neural network-based information fusion techniques,2024,True,graph neural network; GNN abbreviation
+https://openalex.org/W4402979647,GRLR: Routing With Graph Neural Network and Reinforcement Learning for Mega LEO Satellite Constellations,2024,True,graph neural network; GNN abbreviation
+https://openalex.org/W4391578789,Integrating sentiment analysis with graph neural networks for enhanced stock prediction: A comprehensive survey,2024,True,graph neural network; GNN abbreviation
+https://openalex.org/W4391645416,Graph neural networks: a survey on the links between privacy and security,2024,True,graph neural network; GNN abbreviation
+https://openalex.org/W4413224864,Kolmogorov–Arnold graph neural networks for molecular property prediction,2025,True,graph neural network; GNN abbreviation; graph convolutional network; graph attention network; message passing
+https://openalex.org/W4409183464,Uncertainty quantification with graph neural networks for efficient molecular design,2025,True,graph neural network; message passing
+https://openalex.org/W4416011383,"A Survey of Graph Neural Networks in Real World: Imbalance, Noise, Privacy and OOD Challenges",2025,True,graph neural network; GNN abbreviation
+https://openalex.org/W4413308130,Metabolomics Pathway Prediction Using Enhanced-Graph Convolutional Networks with Graph Attention Networks,2025,True,graph neural network; GNN abbreviation; graph convolutional network; graph attention network
+https://openalex.org/W7128712219,Accumulated local effects and graph neural networks for link prediction,2026,True,graph neural network; GNN abbreviation; graph convolutional network; graph attention network; message passing
+https://openalex.org/W7130428862,Intelligent Reflector Metasurface Design for 6G Adaptive Beamforming Using Model‐Level Multi‐Scale Edge Guided Attention Graph Neural Network With Biruni Earth Radius Optimization,2026,True,graph neural network
+https://openalex.org/W4406318390,DeltaGNN: Graph Neural Network With Information Flow Control,2026,True,graph neural network; GNN abbreviation; message passing
