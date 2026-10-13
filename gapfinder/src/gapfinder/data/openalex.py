@@ -45,12 +45,21 @@ def _headers() -> dict[str, str]:
 
 
 def _load_cache() -> dict[str, Any]:
-    if not HTTP_CACHE_PATH.exists():
-        return {}
-    try:
-        return json.loads(HTTP_CACHE_PATH.read_text(encoding="utf-8"))
-    except (json.JSONDecodeError, OSError):
-        return {}
+    if HTTP_CACHE_PATH.exists():
+        try:
+            return json.loads(HTTP_CACHE_PATH.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            pass
+    gz_path = HTTP_CACHE_PATH.with_suffix(".json.gz")
+    if gz_path.exists():
+        try:
+            import gzip
+
+            with gzip.open(gz_path, "rt", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return {}
 
 
 def _save_cache(cache: dict[str, Any]) -> None:
