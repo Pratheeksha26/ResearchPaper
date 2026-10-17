@@ -1,6 +1,4 @@
-# Building an Auditable Literature Evidence Pipeline: Corpus Quality, Retrieval, and Structured Extraction for Graph Neural Networks
-
-**Draft for review — 30 September 2026**
+# Auditing the Evidence Behind Research-Gap Discovery: Corpus Quality, Retrieval, and Structured Extraction in Graph Neural Networks Literature
 
 ## Abstract
 
